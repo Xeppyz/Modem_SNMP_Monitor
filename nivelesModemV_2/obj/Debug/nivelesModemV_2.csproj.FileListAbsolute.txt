@@ -1,0 +1,12 @@
+C:\Users\AlienWare\Desktop\nivelesModemV_2\nivelesModemV_2\bin\Debug\nivelesModemV_2.exe.config
+C:\Users\AlienWare\Desktop\nivelesModemV_2\nivelesModemV_2\bin\Debug\nivelesModemV_2.exe
+C:\Users\AlienWare\Desktop\nivelesModemV_2\nivelesModemV_2\bin\Debug\nivelesModemV_2.pdb
+C:\Users\AlienWare\Desktop\nivelesModemV_2\nivelesModemV_2\bin\Debug\SharpSnmpLib.dll
+C:\Users\AlienWare\Desktop\nivelesModemV_2\nivelesModemV_2\bin\Debug\SnmpSharpNet.dll
+C:\Users\AlienWare\Desktop\nivelesModemV_2\nivelesModemV_2\bin\Debug\SharpSnmpLib.pdb
+C:\Users\AlienWare\Desktop\nivelesModemV_2\nivelesModemV_2\bin\Debug\SharpSnmpLib.xml
+C:\Users\AlienWare\Desktop\nivelesModemV_2\nivelesModemV_2\obj\Debug\nivelesModemV_2.csproj.AssemblyReference.cache
+C:\Users\AlienWare\Desktop\nivelesModemV_2\nivelesModemV_2\obj\Debug\nivelesModemV_2.csproj.CoreCompileInputs.cache
+C:\Users\AlienWare\Desktop\nivelesModemV_2\nivelesModemV_2\obj\Debug\nivelesModemV_2.csproj.CopyComplete
+C:\Users\AlienWare\Desktop\nivelesModemV_2\nivelesModemV_2\obj\Debug\nivelesModemV_2.exe
+C:\Users\AlienWare\Desktop\nivelesModemV_2\nivelesModemV_2\obj\Debug\nivelesModemV_2.pdb
